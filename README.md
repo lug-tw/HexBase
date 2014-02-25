@@ -1,4 +1,4 @@
 HexBase
 =============
 
-The basement of all the Hex Geeks!
+The basement for all the Hex Geeks!
