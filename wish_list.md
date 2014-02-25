@@ -34,9 +34,8 @@ wish_list
 
     + @BlueT 贊助!!
 
+- 白板
+
+    + 有需要的話，@mrmoneyc 認領
+
 - 其他
-
-
-
-
-
