@@ -1,0 +1,39 @@
+html,
+body {
+  font-size: 15px;
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  background: #FFFFFF;
+  padding: 0px;
+  color: #555555;
+  text-rendering: optimizeLegibility;
+  overflow: hidden;
+  position:relative;
+}
+
+.ui.header {
+  font-family: 'Source Sans Pro', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+* {
+  cursor:default;
+}
+
+a {
+  cursor:pointer;
+}
+
+.h {
+  font-size: 500px;
+}
+
+.ex {
+  font-size: 300px;
+}
+
+.base {
+  font-size: 200px;
+}
