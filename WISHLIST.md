@@ -1,7 +1,7 @@
 wish_list
 =========
 
-台中 HexBace 願望清單！
+台中 HexBase 願望清單！
 
 ----
 
