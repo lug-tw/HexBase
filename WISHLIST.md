@@ -22,10 +22,11 @@ wish_list
     + 閣樓區？放雜誌（？）
     + 食物區
 
-- 木紋巧拼
+- ~~木紋巧拼~~
 
     + 大概像是[這種](http://www.i-house.com.tw/product/detail/id/458987)
     + 愈便宜愈好?
+    + done (便宜七彩巧拼代替)
 
 - 玻璃門裝飾
 
