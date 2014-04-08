@@ -1,0 +1,7 @@
+.DS_Store
+config.inc.js
+*.sock
+*/node_modules/
+*/public/libs/
+*/assets/libs/
+*/logs/
