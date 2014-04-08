@@ -12,6 +12,7 @@ body {
   text-rendering: optimizeLegibility;
   overflow: hidden;
   position:relative;
+  margin: 0;
 }
 
 .ui.header {
