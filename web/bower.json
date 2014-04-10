@@ -1,6 +1,7 @@
 {
   "name": "HexBase",
   "dependencies": {
-    "Semantic-UI": "~0.15.4"
+    "Semantic-UI": "~0.15.4",
+    "csshake": "*"
   }
 }
