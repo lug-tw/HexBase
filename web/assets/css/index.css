@@ -1,6 +1,7 @@
 html,
 body {
   font-size: 15px;
+  width: 100%;
   height: 100%;
 }
 
@@ -13,6 +14,12 @@ body {
   overflow: hidden;
   position:relative;
   margin: 0;
+}
+
+#map-canvas {
+  top: -10%;
+  height: 120%;
+  width: 100%;
 }
 
 .ui.header {
