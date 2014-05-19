@@ -7,8 +7,12 @@ a待計劃 => b待詢價 => c待採買
 - a> 木紋巧拼
   - 後來決定 7.9元/片 的七彩巧拼代替
   - 先購置 100 片共 790 ，由 JC 贊助 1K
-  - [pic 1](http://i.imgur.com/DFyAmo4.jpg)
-  - [pic 2](http://i.imgur.com/EAOr2vN.jpg)
+    - [pic 1](http://i.imgur.com/DFyAmo4.jpg)
+    - [pic 2](http://i.imgur.com/EAOr2vN.jpg)
+  - 桌椅 (IKEA)
+  - 投影機 (Kuon 出借贊助)
+  - 有蓋垃圾桶
+  - 冰箱(BlueT)
 
 
 
@@ -17,14 +21,11 @@ a待計劃 => b待詢價 => c待採買
 - a> 鞋櫃
 - a> 室內拖鞋
 - a> 延長線
-- a> 桌椅（IKEA）=> 找家具店訂製？
-- a> 投影機
 - a> 投影機架子
 - a> 布幕(電動？)
-- a> 有蓋垃圾桶
 - a> 白板
 - a> 廁所用品，衛生紙，清潔器具(劑)
-- a> 冰箱(BlueT)，零食架
+- a> 零食架
 - a> 睡袋 / 棉被 / 枕頭 (寢具系列)
 - a> 芳香劑(鞋櫃/廁所)
 - a> 大量的貼紙（門口用）

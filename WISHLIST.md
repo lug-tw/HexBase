@@ -7,7 +7,7 @@ wish_list
 
 - 投影機
 
-    + 已由 kuon 出借贊助
+    + [Done] 已由 kuon 出借贊助
     + 投影機天花板吊架 @BlueT 贊助
 
 - 投影位置
@@ -24,9 +24,9 @@ wish_list
 
 - ~~木紋巧拼~~
 
+    + [done] 便宜七彩巧拼代替
     + 大概像是[這種](http://www.i-house.com.tw/product/detail/id/458987)
     + 愈便宜愈好?
-    + done (便宜七彩巧拼代替)
 
 - 玻璃門裝飾
 
@@ -36,7 +36,7 @@ wish_list
 
 - 冰箱
 
-    + @BlueT 贊助!!
+    + [Done] @BlueT 贊助!!
 
 - 白板
 
